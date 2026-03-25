@@ -1,0 +1,18 @@
+.certifications {
+  margin-left: 240px;
+  padding: 60px;
+  background: #020617;
+  color: #e2e8f0;
+}
+
+.cert-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.cert-container img {
+  width: 300px;
+  border-radius: 10px;
+  border: 2px solid #38bdf8;
+}

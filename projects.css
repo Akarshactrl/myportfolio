@@ -1,0 +1,14 @@
+.projects {
+  margin-left: 240px;
+  padding: 60px;
+  background: #020617;
+  color: #e2e8f0;
+}
+
+.card {
+  background: #0f172a;
+  padding: 20px;
+  margin: 20px 0;
+  border-left: 5px solid #38bdf8;
+  border-radius: 10px;
+}

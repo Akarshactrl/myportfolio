@@ -1,0 +1,40 @@
+.resume {
+  margin-left: 240px;
+  padding: 60px;
+  background: #020617;
+  color: #e2e8f0;
+}
+
+.resume p {
+  max-width: 500px;
+  margin-bottom: 20px;
+}
+
+/* Buttons */
+.resume-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  background: #38bdf8;
+  color: #020617;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background: #0ea5e9;
+}
+
+.download {
+  background: #22c55e;
+}
+
+.download:hover {
+  background: #16a34a;
+}
